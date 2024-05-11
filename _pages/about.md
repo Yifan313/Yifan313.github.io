@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision.
 - *2010.09 - 2014.06*, Bachelor, Yantai University, China.
 
 # 💻 Experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Associate**
