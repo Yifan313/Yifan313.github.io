@@ -68,4 +68,11 @@ My research interest includes neural machine translation and computer vision.
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, 2023, Early Access.
+- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, 2023, Early Access.[[PDF]](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database With Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023.
+- S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool path planning of consecutive free-form sheet metal stamping with deep learning," Journal of Materials Processing Technology, vol. 303, pp. 1-15, 2022.
+- **Y. Xia**, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 3, pp. 1443-1452, 2022.
+- **Y. Xia**, H. Yu, X. Wang, M. Jian and F. -Y. Wang, "Relation-Aware Facial Expression Recognition," IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 3, pp. 1143-1154, 2022.
+- S. Liu, **Y. Xia**, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending With a Novel Theory-Guided Deep Neural Network," IEEE/CAA Journal of Automatica Sinica, vol. 8, no. 3, pp. 565-581, 2021.
+- X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 28, no. 10, pp. 2325-2332, 2020.
+- **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and robust eye center localization via fully convolutional networks," IEEE/CAA Journal of Automatica Sinica, vol. 6, no. 5, pp. 1127-1138, 2019.
