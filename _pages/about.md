@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research1 Associate**
+**Research Associate**
 - School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China
 - 2021.12 - Present
   
