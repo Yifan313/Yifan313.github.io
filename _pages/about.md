@@ -53,8 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Research Associate**
 
-School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China
-2021.12 - Present
+- School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China
+- 2021.12 - Present
 </div>
 </div>
 
