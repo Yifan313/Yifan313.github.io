@@ -31,6 +31,11 @@ My research interest includes neural machine translation and computer vision.
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# 📖 Education
+- *2018.02 - 2021.09*, PhD, University of Portsmouth, UK.
+- *2014.09 - 2017.06*, Master, Ocean University of China, China.
+- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
+
 # 💻 Experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,11 +46,6 @@ My research interest includes neural machine translation and computer vision.
   
 </div>
 </div>
-
-# 📖 Education
-- *2018.02 - 2021.09*, PhD, University of Portsmouth, UK.
-- *2014.09 - 2017.06*, Master, Ocean University of China, China.
-- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
