@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🚩😊 Hi，你好！
-Yifan Xia received the M.Sc. degree from Ocean University of China in 2017 and his Ph.D. degree in 2021 from University of Portsmouth, UK. He is currently a Research Associate with the School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China. His research interests include facial expression analysis, computer vision and deep learning.
+# 😊 Hi，你好！
 
-My research interest includes neural machine translation and computer vision.
+I am now a Research Associate at the School of Mechanical, Electrical and Information Engineering, Shandong University🧱. 
+
+I received my Ph.D. degree at the School of Creative Technologies, University of Portsmouth🏛️, in Sept. 2021. Before that, I earned my master’s degree at the School of Computer Science and Technology, Ocean University of China🏛️, in June 2017. 
+
+🚩My research interests focus on Face Perception Computing, Deep Learning, and Computer Vision. 🌈If you are seeking any form of cooperation, please feel free to email me at 📩xiayifan@sdu.edu.cn.
+
 
 
 <!--# 🔥 News
