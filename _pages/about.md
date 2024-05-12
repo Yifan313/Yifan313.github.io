@@ -25,19 +25,10 @@ redirect_from:
 - 🎯 My research interests focus on Face Perception Computing, Deep Learning, and Computer Vision. 🙋 If you are seeking any form of cooperation, please feel free to email me at 📩 xiayifan@sdu.edu.cn.
 
 
-
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!--# 🎖 Honors and1 Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-# 📖 Education
-- *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
-- *2014.09 - 2017.06*, Master, Ocean University of China, China.
-- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
 
 # 💻 Experience
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="100%"></div></div>
@@ -50,12 +41,6 @@ redirect_from:
 </div>
 </div>
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
-
-<!--# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
 
 # 📝 Publications 
 <!--
@@ -79,3 +64,19 @@ redirect_from:
 - S. Liu, **Y. Xia**, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending With a Novel Theory-Guided Deep Neural Network," IEEE/CAA Journal of Automatica Sinica, vol. 8, no. 3, pp. 565-581, 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9346099)
 - X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 28, no. 10, pp. 2325-2332, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9186079)
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and robust eye center localization via fully convolutional networks," IEEE/CAA Journal of Automatica Sinica, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
+
+
+# 📖 Education
+- *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
+- *2014.09 - 2017.06*, Master, Ocean University of China, China.
+- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
+
+
+# 💬 Teaching
+- Course Instructor, C Programming (Undergraduate), @Shandong University, Fall, 2023
+- Course Instructor, Robot Operating System (Undergraduate), @Shandong University, Spring, 2024
+
+
+# 🎖 Academic Services
+- Reviewer for IEEE Trans. on Mobile Computing, IEEE Trans. on Image Processing, IEEE Trans. on Human-Machine Systems, IEEE Trans. on Computational Social Systems, Journal of Biomedical and Health Informatics, Neurocomputing.
+  
