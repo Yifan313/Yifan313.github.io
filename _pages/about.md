@@ -19,7 +19,8 @@ redirect_from:
 
 # 😊 Hi！
 
-- 🚩 I am now a Research Associate at the School of Mechanical, Electrical and Information Engineering, Shandong University 🧱. 🌈 I received my Ph.D. degree at the School of Creative Technologies, University of Portsmouth, in Sept. 2021 🏛️. Before that, I earned my master’s degree at the School of Computer Science and Technology, Ocean University of China, in June 2017 🏛️. 
+- 🚩 I am now a Research Associate at the School of Mechanical, Electrical and Information Engineering, Shandong University 🧱.
+- 🌈 I received my Ph.D. degree at the School of Creative Technologies, University of Portsmouth, in Sept. 2021 🏛️. Before that, I earned my master’s degree at the School of Computer Science and Technology, Ocean University of China, in June 2017 🏛️. 
 
 - 🎯 My research interests focus on Face Perception Computing, Deep Learning, and Computer Vision. 🙋 If you are seeking any form of cooperation, please feel free to email me at 📩 xiayifan@sdu.edu.cn.
 
