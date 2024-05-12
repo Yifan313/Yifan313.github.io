@@ -42,6 +42,12 @@ redirect_from:
 </div>
 
 
+# 📖 Education
+- *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
+- *2014.09 - 2017.06*, Master, Ocean University of China, China.
+- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
+
+
 # 📝 Publications 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -66,12 +72,6 @@ redirect_from:
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and robust eye center localization via fully convolutional networks," IEEE/CAA Journal of Automatica Sinica, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
 
 
-# 📖 Education
-- *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
-- *2014.09 - 2017.06*, Master, Ocean University of China, China.
-- *2010.09 - 2014.06*, Bachelor, Yantai University, China.
-
-
 # 💬 Teaching
 - Course Instructor, C Programming (Undergraduate), @Shandong University, Fall, 2023
 - Course Instructor, Robot Operating System (Undergraduate), @Shandong University, Spring, 2024
@@ -79,4 +79,3 @@ redirect_from:
 
 # 🎖 Academic Services
 - Reviewer for IEEE Trans. on Mobile Computing, IEEE Trans. on Image Processing, IEEE Trans. on Human-Machine Systems, IEEE Trans. on Computational Social Systems, Journal of Biomedical and Health Informatics, Neurocomputing.
-  
