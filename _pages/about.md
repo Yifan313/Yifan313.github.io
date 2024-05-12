@@ -73,8 +73,8 @@ redirect_from:
 
 
 # 💬 Teaching
-- Course Instructor, C Programming (Undergraduate), @Shandong University, Fall, 2023
-- Course Instructor, Robot Operating System (Undergraduate), @Shandong University, Spring, 2024
+- Course Instructor, C Programming (Undergraduate), @Shandong University
+- Course Instructor, Robot Operating System (Undergraduate), @Shandong University
 
 
 # 🎖 Academic Services
