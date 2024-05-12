@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *2018.02 - 2021.09*, PhD, University of Portsmouth, UK.
+- *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
 - *2014.09 - 2017.06*, Master, Ocean University of China, China.
 - *2010.09 - 2014.06*, Bachelor, Yantai University, China.
 
