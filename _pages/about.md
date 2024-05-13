@@ -78,4 +78,4 @@ redirect_from:
 
 
 # 🎖 Academic Services
-- Reviewer for IEEE Trans. on Mobile Computing, IEEE Trans. on Image Processing, IEEE Trans. on Human-Machine Systems, IEEE Trans. on Computational Social Systems, Journal of Biomedical and Health Informatics, Neurocomputing.
+- Reviewer for IEEE Trans. on Mobile Computing, IEEE Trans. on Image Processing, IEEE Trans. on Human-Machine Systems, IEEE Trans. on Computational Social Systems, Journal of Biomedical and Health Informatics, Neurocomputing, IEEE/CAA Journal of Automatica Sinica.
