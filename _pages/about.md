@@ -69,8 +69,7 @@ redirect_from:
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
 - *2014.09 - 2017.06*, Master, Ocean University of China, China.
 - *2010.09 - 2014.06*, Bachelor, Yantai University, China.
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yifan313.github.io)
-<img src="https://visitor-badge.glitch.me/badge?page_id=yifan313.github.io" alt="visitor">
+  
 
 # 💬 Teaching
 - Course Instructor, C Programming (Undergraduate), @Shandong University
