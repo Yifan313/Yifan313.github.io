@@ -77,4 +77,4 @@ redirect_from:
 
 
 # 🎖 Academic Services
-- Reviewer for IEEE Trans. on Image Processing, IEEE Trans. on Intelligent Vehicles, IEEE Trans. on Computational Social Systems, Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, Neurocomputing, etc.
+- Reviewer for IEEE Trans. on Intelligent Vehicles, IEEE Trans. on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, Neurocomputing, etc.
