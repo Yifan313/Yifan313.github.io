@@ -55,7 +55,7 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, 2023, Early Access. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
+- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 - **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database With Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9831121)
 - S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool path planning of consecutive free-form sheet metal stamping with deep learning," Journal of Materials Processing Technology, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
 - **Y. Xia**, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 3, pp. 1443-1452, 2022. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9406832)
