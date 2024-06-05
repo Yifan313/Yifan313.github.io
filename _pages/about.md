@@ -49,12 +49,11 @@ redirect_from:
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 - **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database With Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9831121)
 - S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool path planning of consecutive free-form sheet metal stamping with deep learning," Journal of Materials Processing Technology, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
