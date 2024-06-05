@@ -42,17 +42,16 @@ redirect_from:
 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/abstract/document/10153641)
 
 Yating Zhang, Weixiang Gao, Hui Yu, Junyu Dong and **Yifan Xia**
-[**PDF**](https://ieeexplore.ieee.org/abstract/document/10153641) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024 
 </div>
-</div>
+</div> -->
 
 - Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," IEEE Transactions on Affective Computing, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 - **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database With Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9831121)
