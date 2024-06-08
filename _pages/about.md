@@ -70,8 +70,8 @@ Yating Zhang, Weixiang Gao, Hui Yu, Junyu Dong and **Yifan Xia**
   
 
 # 💬 Teaching
-- Course Instructor, C Programming (Undergraduate), @Shandong University
-- Course Instructor, Robot Operating System (Undergraduate), @Shandong University
+- C Programming (Undergraduate), @Shandong University
+- Robot Operating System (Undergraduate), @Shandong University
 
 
 # 🎖 Academic Services
