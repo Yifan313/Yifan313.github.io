@@ -75,4 +75,4 @@ Yating Zhang, Weixiang Gao, Hui Yu, Junyu Dong and **Yifan Xia**
 
 
 # 🎖 Academic Services
-- Reviewer for IEEE Trans. on Intelligent Vehicles, IEEE Trans. on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, Neurocomputing, etc.
+- Reviewer for IEEE Trans. on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, Neurocomputing, etc.
