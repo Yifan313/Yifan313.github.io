@@ -50,7 +50,6 @@ redirect_from:
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia**
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering, Early Access, 2024
-- This work reviews the development of AI-based facial palsy evaluation, discusses the research challenges, and provides some guidelines about future directions for researchers.
 </div>
 </div>
 
