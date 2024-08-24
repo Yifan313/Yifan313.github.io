@@ -49,7 +49,8 @@ redirect_from:
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
 
 Yating Zhang, Weixiang Gao, Hui Yu, Junyu Dong and **Yifan Xia**
-- IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2024 
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering, Early Access, 2024
+- This work not only reviews the state-of-the-art development of AI-based facial palsy evaluation but also discusses the existing research challenges and provides some guidelines about future directions for researchers regarding the possible application of AI in evaluating facial palsy severity.
 </div>
 </div>
 
