@@ -42,7 +42,6 @@ redirect_from:
 
 
 # 📝 Selected Publications 
-Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -75,7 +74,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***
 - S. Liu, **Y. Xia**, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," IEEE/CAA Journal of Automatica Sinica, vol. 8, no. 3, pp. 565-581, 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9346099)
 - X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 28, no. 10, pp. 2325-2332, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9186079)
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," IEEE/CAA Journal of Automatica Sinica, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
-
+Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ)
 
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
