@@ -27,7 +27,9 @@ redirect_from:
 
 # 🔥 News
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
-
+- *2024.01*: &nbsp;One paper“Artificial Intelligence-based Facial Palsy Evaluation: A Survey”was accepted by IEEE Transactions on Neural Systems and Rehabilitation Engineering.🎉🎉🎉
+- *2026.01*: &nbsp;One paper was accepted by IEEE TNSRE: "Artificial Intelligence-based Facial Palsy Evaluation: A Survey"🎉🎉🎉
+- *2026.01*: &nbsp;One paper was accepted to IEEE TNSRE!🎉🎉🎉
 
 # 💻 Experience
 
