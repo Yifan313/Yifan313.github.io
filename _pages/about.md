@@ -28,7 +28,7 @@ redirect_from:
 # 🔥 News
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
 - *2024.10*: &nbsp;A webpage was released for the AFLFP database. Welcome to [download](https://github.com/Yifan313/AFLFP)!
-- *2024.08*: &nbsp;One paper was accepted to IEEE TNSRE!🎉🎉🎉
+- *2024.08*: &nbsp;One paper was accepted by IEEE TNSRE!🎉🎉🎉
 
 # 💻 Experience
 
