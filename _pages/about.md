@@ -54,7 +54,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/image2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
