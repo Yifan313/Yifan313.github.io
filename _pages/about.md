@@ -25,7 +25,7 @@ redirect_from:
 - My research interests 🎯 focus on Face Perception Computing, Computer Vision and Pattern Recognition <a href='https://scholar.google.com/citations?user=_NIufakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 - If you are seeking any form of cooperation 🙋, please feel free 🌈 to email me at 📩 xiayifan@sdu.edu.cn.
 
---# 🔥 News
+# 🔥 News
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
 
 
