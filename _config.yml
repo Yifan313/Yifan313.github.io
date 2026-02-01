@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Yifan Xia (夏一帆)"
 description              : "Research Associate in School of Airspace and Engineering."
-repository               :
-google_scholar_stats_use_cdn : false
+repository               : "Yifan313/Yifan313.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : G-J0R7EW5PY7
