@@ -30,6 +30,7 @@ redirect_from:
 
 
 # 💻 Experience
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +42,8 @@ redirect_from:
 </div>
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
