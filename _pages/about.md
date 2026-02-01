@@ -48,7 +48,18 @@ redirect_from:
 
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
 
-Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia**
+Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 32, pp. 3116-3134, 2024.
+- This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
+
+Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 32, pp. 3116-3134, 2024.
 - This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
 </div>
