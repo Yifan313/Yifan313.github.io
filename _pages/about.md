@@ -42,7 +42,7 @@ redirect_from:
 </div>
 
 
-# 📝 Selected Publications
+# 📝 Selected Publications (\* means corresponding author)
 
 \* means Corresponding author
 
