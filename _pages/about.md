@@ -45,6 +45,7 @@ redirect_from:
 # 📝 Selected Publications
 
 Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).
+
 \* means Corresponding author.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
