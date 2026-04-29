@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research Associate**
+####**Research Associate**
 - School of Airspace and Engineering, Shandong University, Weihai, China.
 - 2021.12 - Present.
   
@@ -43,7 +43,7 @@ redirect_from:
 
 
 # 📝 Selected Publications
-### \* means corresponding author
+#### \* means corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
