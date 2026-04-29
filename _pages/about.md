@@ -27,7 +27,7 @@ redirect_from:
 # 🔥 News
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
 - *2024.10*: &nbsp;A webpage was released for the **AFLFP** database. Welcome to [**download**](https://github.com/Yifan313/AFLFP)!
-- *2024.08*: &nbsp;One paper was accepted by **IEEE TNSRE**!🎉🎉🎉
+- *2024.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE TNSRE**!🎉🎉🎉
 
 # 💻 Experience
 
