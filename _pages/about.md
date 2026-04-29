@@ -43,6 +43,7 @@ redirect_from:
 
 
 # 📝 Selected Publications
+## \* means corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
