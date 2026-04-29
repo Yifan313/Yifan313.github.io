@@ -47,7 +47,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-* Corresponding author
+** Corresponding author
 
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
 
