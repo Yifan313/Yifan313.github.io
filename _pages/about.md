@@ -42,7 +42,7 @@ redirect_from:
 </div>
 
 
-# 📝 Selected Publications (\* means corresponding author)
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,7 +77,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 28, no. 10, pp. 2325-2332, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9186079)
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," **IEEE/CAA Journal of Automatica Sinica**, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
 
-\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).
+**\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
 
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
