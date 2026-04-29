@@ -42,9 +42,9 @@ redirect_from:
 </div>
 
 
-# 📝 Selected Publications (\* means corresponding author)
+# 📝 Selected Publications
 
-\* means Corresponding author
+\* means Corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
