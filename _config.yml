@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifan Xia (夏一帆)"
-description              : "Research Associate in School of Airspace and Engineering."
+description              : "School of Airspace and Engineering, Shandong University"
 repository               : "Yifan313/Yifan313.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifan Xia"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Airspace and Engineering, Shandong University"
+  bio              : "Research Associate"
   location         : "Weihai, China"
   employer         :
   pubmed           : 
