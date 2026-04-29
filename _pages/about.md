@@ -44,7 +44,7 @@ redirect_from:
 
 # 📝 Selected Publications
 
-* Corresponding author
+\* means Corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
