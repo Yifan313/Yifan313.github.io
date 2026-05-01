@@ -1,9 +1,3 @@
-<style>
-.page__content ul li {
-    text-align: justify !important;
-    text-justify: inter-word !important;
-}
-</style>
 ---
 permalink: /
 title: ""
