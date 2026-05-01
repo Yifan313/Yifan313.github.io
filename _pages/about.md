@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<style> body { text-align: justify; text-justify: inter-ideograph; } </style>
+
 # 🚩 Hi, there！
 
 - I'm **Yifan** 😊. I am now a Research Associate 🧱 at the School of Airspace and Engineering, Shandong University.
@@ -66,7 +66,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
 </div>
-
+<div style="text-align: justify; text-justify: inter-ideograph;">
 - Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 <!--- **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9831121)[[Database@Github]](https://github.com/Yifan313/AFLFP)-->
 - S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," **Journal of Materials Processing Technology**, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
@@ -75,7 +75,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - S. Liu, **Y. Xia**, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," **IEEE/CAA Journal of Automatica Sinica**, vol. 8, no. 3, pp. 565-581, 2021. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9346099)
 - X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 28, no. 10, pp. 2325-2332, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9186079)
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," **IEEE/CAA Journal of Automatica Sinica**, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
-
+</div>
 **\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
 
 # 📖 Education
