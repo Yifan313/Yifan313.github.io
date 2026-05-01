@@ -67,7 +67,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 </div>
 </div>
 <div style="text-align: justify;">
-- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
+Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 
 S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," **Journal of Materials Processing Technology**, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
 
