@@ -1,3 +1,12 @@
+<style>
+/* 绝杀：强制所有列表、段落、文本 100% 两端对齐 */
+ul, li, p, div, span, * {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  display: block !important;
+  width: 100% !important;
+}
+</style>
 ---
 permalink: /
 title: ""
