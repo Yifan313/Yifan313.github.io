@@ -1,8 +1,17 @@
 <style>
-/* 全局文本两端对齐 */
-p, div, li, span {
+/* 强制全文两端对齐（包含论文列表、段落、div、所有文本） */
+.page__content p,
+.page__content li,
+.page__content div,
+.page__content span {
   text-align: justify !important;
   text-justify: inter-word !important;
+  hyphens: auto !important;
+  line-height: 1.6 !important;
+}
+/* 标题不要两端对齐，保持居中/左对齐更美观 */
+h1, h2, h3, h4, h5 {
+  text-align: left !important;
 }
 </style>
 ---
