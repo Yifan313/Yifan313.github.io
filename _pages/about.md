@@ -66,7 +66,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
 </div>
-
+<div style="text-align: justify !important; text-justify: inter-word !important; hyphens: auto !important;">
 - Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
 <!--- **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu, "AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy," IEEE Transactions on Computational Social Systems, vol. 10, no. 4, pp. 1975-1985, 2023. [[PDF]](https://ieeexplore.ieee.org/document/9831121)[[Database@Github]](https://github.com/Yifan313/AFLFP)-->
 - S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," **Journal of Materials Processing Technology**, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
@@ -77,7 +77,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," **IEEE/CAA Journal of Automatica Sinica**, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
 
 **\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
-
+</div>
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
 - *2014.09 - 2017.06*, Master, Ocean University of China, China.
