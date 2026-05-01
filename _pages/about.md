@@ -1,3 +1,10 @@
+<style>
+/* 全局文本两端对齐 */
+p, div, li, span {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+}
+</style>
 ---
 permalink: /
 title: ""
