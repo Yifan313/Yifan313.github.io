@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE</div><img src='images/image1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
+[Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 32, pp. 3116-3134, 2024.
@@ -57,7 +57,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSS</div><img src='images/image2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy](https://ieeexplore.ieee.org/document/9831121) [[Database@Github]](https://github.com/Yifan313/AFLFP)
+[AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy](https://ieeexplore.ieee.org/document/9831121)
 
 **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
 
