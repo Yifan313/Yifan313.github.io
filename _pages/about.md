@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 **Research Associate**
-- School of Airspace and Engineering, Shandong University, Weihai, China.
+- School of Airspace Science and Engineering, Shandong University, Weihai, China.
 - 2021.12 - Present.
   
 </div>
