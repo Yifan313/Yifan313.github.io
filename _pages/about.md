@@ -67,7 +67,9 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 </div>
 </div>
 
-- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641)[[Database@Github]](https://github.com/YMPort/MGEED)
+<div style="text-align: justify; text-justify: inter-ideograph; line-height: 1.7;">
+
+- Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024. [[PDF]](https://ieeexplore.ieee.org/abstract/document/10153641) [[Database@Github]](https://github.com/YMPort/MGEED)
 
 - S. Liu, **Y. Xia**, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," **Journal of Materials Processing Technology**, vol. 303, pp. 1-15, 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0924013622000425)
 
@@ -80,6 +82,8 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 - X. Liu, **Y. Xia**, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 28, no. 10, pp. 2325-2332, 2020. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9186079)
 
 - **Y. Xia**, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," **IEEE/CAA Journal of Automatica Sinica**, vol. 6, no. 5, pp. 1127-1138, 2019. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8823575)
+
+</div>
 
 **\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
 
