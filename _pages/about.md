@@ -67,23 +67,33 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 </div>
 </div>
 
-<div style="text-align: justify; text-justify: inter-ideograph; line-height:1.6;">
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- Y. Wang, H. Yu, W. Gao, <strong>Y. Xia</strong> and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," <strong>IEEE Transactions on Affective Computing</strong>, vol. 15, no. 2, pp. 606-619, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10153641">[PDF]</a> <a href="https://github.com/YMPort/MGEED">[Database@Github]</a>
+</p>
 
-- Y. Wang, H. Yu, W. Gao, <strong>Y. Xia</strong> and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," <strong>IEEE Transactions on Affective Computing</strong>, vol. 15, no. 2, pp. 606-619, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10153641">PDF</a> <a href="https://github.com/YMPort/MGEED">Database@Github</a>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- S. Liu, <strong>Y. Xia</strong>, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," <strong>Journal of Materials Processing Technology</strong>, vol. 303, pp. 1-15, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0924013622000425">[PDF]</a>
+</p>
 
-- S. Liu, <strong>Y. Xia</strong>, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," <strong>Journal of Materials Processing Technology</strong>, vol. 303, pp. 1-15, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0924013622000425">PDF</a>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- <strong>Y. Xia</strong>, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>, vol. 32, no. 3, pp. 1443-1452, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9406832">[PDF]</a>
+</p>
 
-- <strong>Y. Xia</strong>, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>, vol. 32, no. 3, pp. 1443-1452, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9406832">PDF</a>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- <strong>Y. Xia</strong>, H. Yu, X. Wang, M. Jian and F. -Y. Wang, "Relation-Aware Facial Expression Recognition," <strong>IEEE Transactions on Cognitive and Developmental Systems</strong>, vol. 14, no. 3, pp. 1143-1154, 2022. <a href="https://ieeexplore.ieee.org/document/9496600">[PDF]</a>
+</p>
 
-- <strong>Y. Xia</strong>, H. Yu, X. Wang, M. Jian and F. -Y. Wang, "Relation-Aware Facial Expression Recognition," <strong>IEEE Transactions on Cognitive and Developmental Systems</strong>, vol. 14, no. 3, pp. 1143-1154, 2022. <a href="https://ieeexplore.ieee.org/document/9496600">PDF</a>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- S. Liu, <strong>Y. Xia</strong>, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 8, no. 3, pp. 565-581, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9346099">[PDF]</a>
+</p>
 
-- S. Liu, <strong>Y. Xia</strong>, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 8, no. 3, pp. 565-581, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9346099">PDF</a>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- X. Liu, <strong>Y. Xia</strong>, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," <strong>IEEE Transactions on Neural Systems and Rehabilitation Engineering</strong>, vol. 28, no. 10, pp. 2325-2332, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9186079">[PDF]</a>
+</p>
 
-- X. Liu, <strong>Y. Xia</strong>, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," <strong>IEEE Transactions on Neural Systems and Rehabilitation Engineering</strong>, vol. 28, no. 10, pp. 2325-2332, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9186079">PDF</a>
-
-- <strong>Y. Xia</strong>, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 6, no. 5, pp. 1127-1138, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8823575">PDF</a>
-
-</div>
+<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
+- <strong>Y. Xia</strong>, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 6, no. 5, pp. 1127-1138, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8823575">[PDF]</a>
+</p>
 
 **\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
 
