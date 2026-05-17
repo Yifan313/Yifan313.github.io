@@ -82,10 +82,6 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 </div>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• Y. Wang, H. Yu, W. Gao, <strong>Y. Xia</strong> and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," <strong>IEEE Transactions on Affective Computing</strong>, vol. 15, no. 2, pp. 606-619, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10153641">[PDF]</a> <a href="https://github.com/YMPort/MGEED">[Database@Github]</a>
-</p>
-
-<p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
 • S. Liu, <strong>Y. Xia</strong>, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," <strong>Journal of Materials Processing Technology</strong>, vol. 303, pp. 1-15, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0924013622000425">[PDF]</a>
 </p>
 
@@ -109,7 +105,6 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 • <strong>Y. Xia</strong>, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 6, no. 5, pp. 1127-1138, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8823575">[PDF]</a>
 </p>
 
-**\* means corresponding author. Please find my full paper list at my [[Google Scholar]](https://scholar.google.com/citations?user=_NIufakAAAAJ).**
 
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
