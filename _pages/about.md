@@ -60,7 +60,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
 [MGEED: A Multimodal Genuine Emotion and Expression Detection Database](https://ieeexplore.ieee.org/abstract/document/10153641)
 
-**Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
+Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
 [[Database@Github]](https://github.com/YMPort/MGEED)
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
