@@ -75,7 +75,7 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
 **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
 
-[[Database@Github]](https://github.com/Yifan313/AFLFP)
+[[Database@Github]](https://github.com/Yifan313/AFLFP)[![Data@Github](https://img.shields.io/badge/Code-ffffff?logo=github&logoColor=181717&style=flat)](https://github.com/Yifan313/AFLFP)
 - **IEEE Transactions on Computational Social Systems**, vol. 10, no. 4, pp. 1975-1985, 2023.
 - This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
