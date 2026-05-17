@@ -68,6 +68,19 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAFFC</div><img src='images/image3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MGEED: A Multimodal Genuine Emotion and Expression Detection Database](https://ieeexplore.ieee.org/abstract/document/10153641)
+
+**Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
+
+[[Database@Github]](https://github.com/YMPort/MGEED)
+- **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
+- This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
+</div>
+</div>
+
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
 • Y. Wang, H. Yu, W. Gao, <strong>Y. Xia</strong> and C. Nduka, "MGEED: A Multimodal Genuine Emotion and Expression Detection Database," <strong>IEEE Transactions on Affective Computing</strong>, vol. 15, no. 2, pp. 606-619, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10153641">[PDF]</a> <a href="https://github.com/YMPort/MGEED">[Database@Github]</a>
 </p>
