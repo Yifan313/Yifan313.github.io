@@ -55,19 +55,6 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSS</div><img src='images/image2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy](https://ieeexplore.ieee.org/document/9831121)
-
-**Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
-
-[[Database@Github]](https://github.com/Yifan313/AFLFP)
-- **IEEE Transactions on Computational Social Systems**, vol. 10, no. 4, pp. 1975-1985, 2023.
-- This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAFFC</div><img src='images/image3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +65,19 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 [[Database@Github]](https://github.com/YMPort/MGEED)
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
 - This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSS</div><img src='images/image2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AFLFP: A Database with Annotated Facial Landmarks for Facial Palsy](https://ieeexplore.ieee.org/document/9831121)
+
+**Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
+
+[[Database@Github]](https://github.com/Yifan313/AFLFP)
+- **IEEE Transactions on Computational Social Systems**, vol. 10, no. 4, pp. 1975-1985, 2023.
+- This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
 </div>
 
