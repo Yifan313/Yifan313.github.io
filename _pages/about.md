@@ -67,7 +67,7 @@ redirect_from:
 </div>
 </div>
 <div class="experience-card">
-      <img src="images/sddxlogo.png" alt="sdu logo" class="experience-logo">
+      <img src="images/sddx_logo.png" alt="sddx_logo" class="experience-logo">
       <div class="experience-info">
           <strong>Shandong University, Weihai, China</strong><br>
           <em>2021.12 - Present.</em><br>
