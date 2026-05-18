@@ -11,7 +11,7 @@ redirect_from:
 .experience-card {
     display: flex;
     align-items: center;
-    background: #f9f9f9;
+    background: white;
     border-radius: 12px;
     padding: 16px;
     margin-bottom: 0px;
@@ -56,7 +56,7 @@ redirect_from:
 - *2024.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE TNSRE**!🎉🎉🎉
 
 # 💻 Experience
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sddx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +65,7 @@ redirect_from:
 - 2021.12 - Present.
   
 </div>
-</div>
+</div>-->
 <div class="experience-card">
       <img src="images/sddx_logo.png" alt="sddx_logo" class="experience-logo">
       <div class="experience-info">
