@@ -69,7 +69,7 @@ redirect_from:
 <div class="experience-card">
       <img src="images/sddx_logo.png" alt="sddx_logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Shandong University, Weihai, China</strong><br>
+          <strong>Shandong University</strong><br>
           <em>2021.12 - Present.</em><br>
           Research Associate at the School of Airspace Science and Engineering
       </div>
