@@ -66,12 +66,12 @@ redirect_from:
   
 </div>
 </div>
-  <div class="experience-card">
-      <img src="images/sddx.png" alt="TeleAI logo" class="experience-logo">
+<div class="experience-card">
+      <img src="images/sddxlogo.png" alt="sdu logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
-          <em>2026.01 - 2026.03</em><br>
-          Start My Journey in LLM
+          <strong>Shandong University, Weihai, China</strong><br>
+          <em>2021.12 - Present.</em><br>
+          Research Associate at the School of Airspace Science and Engineering
       </div>
   </div>
 
