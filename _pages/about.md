@@ -11,7 +11,7 @@ redirect_from:
 .experience-card {
     display: flex;
     align-items: center;
-    background: white;
+    background: #ffffff;
     border-radius: 12px;
     padding: 16px;
     margin-bottom: 0px;
