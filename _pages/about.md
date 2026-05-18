@@ -7,7 +7,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<style>
+.experience-card {
+    display: flex;
+    align-items: center;
+    background: #f9f9f9;
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 0px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.experience-card:hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+.experience-logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    border-radius: 8px;
+    object-fit: contain;
+}
+.experience-info {
+    font-family: "Segoe UI", sans-serif;
+}
+.experience-info strong {
+    font-size: 1.1em;
+}
+</style>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
