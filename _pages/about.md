@@ -84,6 +84,8 @@ redirect_from:
 [Artificial Intelligence-based Facial Palsy Evaluation: A Survey](https://ieeexplore.ieee.org/document/10643562)
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
+
+[[Project@Github]](https://github.com/Yifan313)
 - **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 32, pp. 3116-3134, 2024.
 - This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
 </div>
@@ -96,7 +98,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
 Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
-[[Database@Github]](https://github.com/YMPort/MGEED)
+[[Data@Github]](https://github.com/YMPort/MGEED)
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
 - This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
 </div>
@@ -109,7 +111,7 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
 **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
 
-[[Database@Github]](https://github.com/Yifan313/AFLFP)
+[[Data@Github]](https://github.com/Yifan313/AFLFP)
 - **IEEE Transactions on Computational Social Systems**, vol. 10, no. 4, pp. 1975-1985, 2023.
 - This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
