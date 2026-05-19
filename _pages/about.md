@@ -143,8 +143,8 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
 
 # 🎖 Research Grants
-- *2026-2028*: Young Scientists Fund of the National Natural Science Foundation of China, PI.
-- *2025-2027*: Young Scientists Fund of Shandong Provincial Natural Science Foundation, PI.
+- *2026 - 2028*: Young Scientists Fund of the National Natural Science Foundation of China, PI.
+- *2025 - 2027*: Young Scientists Fund of Shandong Provincial Natural Science Foundation, PI.
 
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
