@@ -118,27 +118,27 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 </div>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• S. Liu, <strong>Y. Xia</strong>, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," <strong>Journal of Materials Processing Technology</strong>, vol. 303, pp. 1-15, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0924013622000425">[PDF]</a>
+• S. Liu, <strong>Y. Xia</strong>, Y. Liu, Z. Shi, H. Yu, Z. Li and J. Lin, "Tool Path Planning of Consecutive Free-Form Sheet Metal Stamping with Deep Learning," <strong>Journal of Materials Processing Technology</strong>, vol. 303, pp. 1-15, 2022. <a href="https://www.sciencedirect.com/science/article/pii/S0924013622000425">[Paper]</a>
 </p>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• <strong>Y. Xia</strong>, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>, vol. 32, no. 3, pp. 1443-1452, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9406832">[PDF]</a>
+• <strong>Y. Xia</strong>, W. Zheng, Y. Wang, H. Yu, J. Dong and F. -Y. Wang, "Local and Global Perception Generative Adversarial Network for Facial Expression Synthesis," <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>, vol. 32, no. 3, pp. 1443-1452, 2022. <a href="https://ieeexplore.ieee.org/abstract/document/9406832">[Paper]</a>
 </p>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• <strong>Y. Xia</strong>, H. Yu, X. Wang, M. Jian and F. -Y. Wang, "Relation-Aware Facial Expression Recognition," <strong>IEEE Transactions on Cognitive and Developmental Systems</strong>, vol. 14, no. 3, pp. 1143-1154, 2022. <a href="https://ieeexplore.ieee.org/document/9496600">[PDF]</a>
+• <strong>Y. Xia</strong>, H. Yu, X. Wang, M. Jian and F. -Y. Wang, "Relation-Aware Facial Expression Recognition," <strong>IEEE Transactions on Cognitive and Developmental Systems</strong>, vol. 14, no. 3, pp. 1143-1154, 2022. <a href="https://ieeexplore.ieee.org/document/9496600">[Paper]</a>
 </p>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• S. Liu, <strong>Y. Xia</strong>, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 8, no. 3, pp. 565-581, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9346099">[PDF]</a>
+• S. Liu, <strong>Y. Xia</strong>, Z. Shi, H. Yu, Z. Li and J. Lin, "Deep Learning in Sheet Metal Bending with a Novel Theory-Guided Deep Neural Network," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 8, no. 3, pp. 565-581, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9346099">[Paper]</a>
 </p>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• X. Liu, <strong>Y. Xia</strong>, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," <strong>IEEE Transactions on Neural Systems and Rehabilitation Engineering</strong>, vol. 28, no. 10, pp. 2325-2332, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9186079">[PDF]</a>
+• X. Liu, <strong>Y. Xia</strong>, H. Yu, J. Dong, M. Jian and T. D. Pham, "Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation," <strong>IEEE Transactions on Neural Systems and Rehabilitation Engineering</strong>, vol. 28, no. 10, pp. 2325-2332, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9186079">[Paper]</a>
 </p>
 
 <p style="text-align: justify; text-justify: inter-ideograph; margin: 0.5em 0;">
-• <strong>Y. Xia</strong>, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 6, no. 5, pp. 1127-1138, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8823575">[PDF]</a>
+• <strong>Y. Xia</strong>, H. Yu and F. -Y. Wang, "Accurate and Robust Eye Center Localization via Fully Convolutional Networks," <strong>IEEE/CAA Journal of Automatica Sinica</strong>, vol. 6, no. 5, pp. 1127-1138, 2019. <a href="https://ieeexplore.ieee.org/abstract/document/8823575">[Paper]</a>
 </p>
 
 
