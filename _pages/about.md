@@ -142,6 +142,10 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 </p>
 
 
+# 🎖 Research Grants
+- *2026 - 2028*: Young Scientists Fund of the National Natural Science Foundation of China, PI.
+- *2025 - 2027*: Young Scientists Fund of Shandong Provincial Natural Science Foundation, PI.
+
 # 📖 Education
 - *2018.02 - 2021.09*, Ph.D., University of Portsmouth, UK.
 - *2014.09 - 2017.06*, Master, Ocean University of China, China.
@@ -153,5 +157,3 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 - Robot Operating System (Undergraduate), @Shandong University.
 
 
-# 🎖 Academic Services
-- Reviewer for IEEE Transactions on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, Neurocomputing, etc.
