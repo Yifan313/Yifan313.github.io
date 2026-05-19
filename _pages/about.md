@@ -98,7 +98,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
 Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
-[![Code@Download](https://img.shields.io/badge/Code%40Download-ffffff?logo=github&logoColor=181717&style=for-the-badge)](https://github.com/YMPort/MGEED) 
+[![Code@Download](https://img.shields.io/badge/Code@Download-ffffff?logo=github&logoColor=181717&style=flat&font=arial)](https://github.com/YMPort/MGEED) 
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
 - This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
 </div>
