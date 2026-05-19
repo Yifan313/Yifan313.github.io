@@ -43,7 +43,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🚩 Hi, there！
 I'm **Yifan** 😊. I am now a Research Associate 🧱 at the School of Airspace Science and Engineering, Shandong University.
 
 - I was sponsored by the China Scholarship Council (CSC) and obtained my Ph.D. degree at the 🏛️ School of Creative Technologies, University of Portsmouth, in Sept. 2021. Before that, I earned my master’s degree at the 🏛️ School of Computer Science and Technology, Ocean University of China, in June 2017. 
