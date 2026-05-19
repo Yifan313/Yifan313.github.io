@@ -85,7 +85,7 @@ redirect_from:
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
-[[Paper List@Github]](https://github.com/Yifan313)
+[[Paper•List@Github]](https://github.com/Yifan313)
 - **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 32, pp. 3116-3134, 2024.
 - This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
 </div>
@@ -98,7 +98,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
 Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
-[[Data_Download@Github]](https://github.com/YMPort/MGEED) 
+[[Data-Download@Github]](https://github.com/YMPort/MGEED) 
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
 - This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
 </div>
