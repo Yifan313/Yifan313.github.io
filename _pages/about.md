@@ -47,7 +47,7 @@ I'm **Yifan** 😊. I am now a Research Associate 🧱 at the School of Airspace
 
 I was sponsored by the China Scholarship Council (CSC) and obtained my Ph.D. degree at the 🏛️ School of Creative Technologies, University of Portsmouth, in Sept. 2021. Before that, I earned my master’s degree at the 🏛️ School of Computer Science and Technology, Ocean University of China, in June 2017. 
 
-I currently serve as a reviewer for several journals, such as IEEE Transactions on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, and Neurocomputing.
+I currently serve as a reviewer 👨‍💻 for several journals, such as IEEE Transactions on Human-Machine Systems, IEEE Journal of Biomedical and Health Informatics, IEEE/CAA Journal of Automatica Sinica, and Neurocomputing.
 
 My research interests 🎯 focus on **Visual Computing and Pattern Recognition**. I am a recipient of the 🏅 Second Prize in Natural Science of the 2025 Shandong Provincial Science and Technology Award. I have published numerous papers with a total of <a href='https://scholar.google.com/citations?user=_NIufakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of cooperation 🙋, please feel free 🌈 to email me at 📩 **xiayifan@sdu.edu.cn**.
 
@@ -86,7 +86,7 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
-[[Paper·List@Github]](https://github.com/Yifan313)
+[[Paper@List]](https://github.com/Yifan313)
 - **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 32, pp. 3116-3134, 2024.
 - This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
 </div>
@@ -99,7 +99,7 @@ Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
 Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
-[[Data·Download@Github]](https://github.com/YMPort/MGEED) 
+[[Data@Download]](https://github.com/YMPort/MGEED) 
 - **IEEE Transactions on Affective Computing**, vol. 15, no. 2, pp. 606-619, 2024.
 - This work presents a facial emotional database, which consists of facial image sequences, depth maps, electroencephalography (EEG), optomyography (OMG) and electrocardiography (ECG) signals. Each facial image is annotated by the 9-level valence, arousal and the 6 basic emotions.
 </div>
@@ -112,7 +112,7 @@ Y. Wang, H. Yu, W. Gao, **Y. Xia** and C. Nduka.
 
 **Y. Xia**, C. Nduka, R. Yap Kannan, E. Pescarini, J. Enrique Berner and H. Yu.
 
-[[Data·Download@Github]](https://github.com/Yifan313/AFLFP)
+[[Data@Download]](https://github.com/Yifan313/AFLFP)
 - **IEEE Transactions on Computational Social Systems**, vol. 10, no. 4, pp. 1975-1985, 2023.
 - This work presents a diverse and reliable facial palsy database that contains facial images with 16-class asymmetric facial expressions. Each facial image is independently and manually annotated with 68 facial landmarks.
 </div>
