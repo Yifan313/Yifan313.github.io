@@ -86,7 +86,7 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 
 Y. Zhang, W. Gao, H. Yu, J. Dong and **Y. Xia***.
 
-[[Paper@List]](https://github.com/Yifan313)
+[[Paper@List]](https://github.com/Yifan313/Awesome-Facial-Palsy-Evaluation)
 - **IEEE Transactions on Neural Systems and Rehabilitation Engineering**, vol. 32, pp. 3116-3134, 2024.
 - This work reviews the recent development of artificial intelligence-based facial palsy evaluation, discusses the existing research challenges, and provides some guidelines about future directions for researchers.
 </div>
