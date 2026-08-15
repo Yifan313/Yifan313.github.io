@@ -89,7 +89,7 @@ Y. Zhang, M. Jian, H. Yu, J. Dong and **Y. Xia***.
 
 [[Code@Download]](https://github.com/Yating180/MultiFPE)
 - **IEEE Journal of Biomedical and Health Informatics**.
-- This work proposes a novel multi-representation fusion network for FPE, named MultiFPE. It incorporates a Dynamic Encoder Branch (DEB) and a Static Encoder Branch (SEB) to leverage complementary dynamic movement and static morphology information for precise severity evaluation.
+- This work proposes a novel multi-representation fusion network for facial palsy evaluation, named MultiFPE. It incorporates a Dynamic Encoder Branch (DEB) and a Static Encoder Branch (SEB) to leverage complementary dynamic movement and static morphology information for precise severity evaluation.
 </div>
 </div>
 
