@@ -53,6 +53,7 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 
 # 🔥 News
 - *2026.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE JBHI**!🎉🎉🎉
+- *2026.05*: &nbsp;One work on facial expression recognition was released on [**ArXiv Preprints**](https://arxiv.org/abs/2605.19821).
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
 - *2024.10*: &nbsp;A webpage was released for the **AFLFP** database. Welcome to [**download**](https://github.com/Yifan313/AFLFP)!
 - *2024.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE TNSRE**!🎉🎉🎉
