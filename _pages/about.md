@@ -84,7 +84,7 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/MultiFPE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MultiFPE: Multi-Representation Fusion Network for Facial Palsy Evaluation in Facial Videos]()
+[MultiFPE: Multi-Representation Fusion Network for Facial Palsy<br>Evaluation in Facial Videos]()
 
 Y. Zhang, M. Jian, H. Yu, J. Dong and **Y. Xia***.
 
