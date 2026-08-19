@@ -84,12 +84,12 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI</div><img src='images/MultiFPE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MultiFPE: Multi-Representation Fusion Network for Facial Palsy Evaluation<br>in Facial Videos]()
+[MultiFPE: Multi-Representation Fusion Network for Facial Palsy Evaluation<br>in Facial Videos](https://ieeexplore.ieee.org/document/11658594)
 
 Y. Zhang, M. Jian, H. Yu, J. Dong and **Y. Xia***.
 
 [[Code@Download]](https://github.com/Yating180/MultiFPE)
-- **IEEE Journal of Biomedical and Health Informatics**.
+- **IEEE Journal of Biomedical and Health Informatics**, Early Access.
 - This work proposes a novel multi-representation fusion network for facial palsy evaluation, named MultiFPE. It incorporates a dynamic encoder branch and a static encoder branch to leverage complementary dynamic movement and static morphology information for precise severity evaluation.
 </div>
 </div>
