@@ -52,6 +52,7 @@ I currently serve as a reviewer 👨‍💻 for several journals, such as IEEE T
 My research interests 🎯 focus on **Visual Computing and Pattern Recognition**. I am a recipient of the 🏅 Second Prize in Natural Science of the 2025 Shandong Provincial Science and Technology Award. I have published numerous papers with a total of <a href='https://scholar.google.com/citations?user=_NIufakAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. If you are seeking any form of cooperation 🙋, please feel free 🌈 to email me at 📩 **xiayifan@sdu.edu.cn**.
 
 # 🔥 News
+- *2026.09*: &nbsp;One paper on unilateral facial action unit intensity estimation was accepted by **BIBM 2026**!🎉🎉🎉
 - *2026.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE JBHI**!🎉🎉🎉
 - *2026.05*: &nbsp;One work on facial expression recognition was released on [**ArXiv Preprints**](https://arxiv.org/abs/2605.19821).
 - *2026.01*: &nbsp;Happy New Year!!!🎉🎉🎉 
