@@ -59,7 +59,6 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 - *2025.12*: &nbsp;We released two additional annotation resources for the **AFLFP** database, including [**facial palsy severity grade**](https://github.com/Yifan313/AFLFP) and [**unilateral facial action unit intensity**](https://github.com/Yifan313/AFLFP).
 - *2024.10*: &nbsp;A webpage was released for the **AFLFP** database. Welcome to [**download**](https://github.com/Yifan313/AFLFP)!
 - *2024.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE TNSRE**!🎉🎉🎉
-- ...
 
 # 💻 Experience
 <!--
