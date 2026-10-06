@@ -57,7 +57,6 @@ My research interests 🎯 focus on **Visual Computing and Pattern Recognition**
 - *2026.05*: &nbsp;One work on facial expression recognition was released on [**ArXiv Preprints**](https://arxiv.org/abs/2605.19821).
 - *2026.01*: &nbsp;Happy New Year!!!🐎🐎🐎
 - *2025.12*: &nbsp;We released two additional annotation resources for the **AFLFP** database, including [**facial palsy severity grade**](https://github.com/Yating180/MultiFPE) and [**unilateral facial action unit intensity**](https://github.com/Yifan313/AFLFP).
-- *2025.01*: &nbsp;Happy New Year!!!🎉🎉🎉
 - *2024.10*: &nbsp;A webpage was released for the **AFLFP** database. Welcome to [**download**](https://github.com/Yifan313/AFLFP)!
 - *2024.08*: &nbsp;One paper on facial palsy evaluation was accepted by **IEEE TNSRE**!🎉🎉🎉
 
