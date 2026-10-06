@@ -1,23 +1,94 @@
-from scholarly import scholarly
-import jsonpickle
 import json
-from datetime import datetime
 import os
+import time
+from datetime import datetime
+from pathlib import Path
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-name = author['name']
-author['updated'] = str(datetime.now())
-author['publications'] = {v['author_pub_id']:v for v in author['publications']}
-print(json.dumps(author, indent=2))
-os.makedirs('results', exist_ok=True)
-with open(f'results/gs_data.json', 'w') as outfile:
-    json.dump(author, outfile, ensure_ascii=False)
+from fp.fp import FreeProxy
+from scholarly import ProxyGenerator, scholarly
 
-shieldio_data = {
-  "schemaVersion": 1,
-  "label": "citations",
-  "message": f"{author['citedby']}",
-}
-with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
-    json.dump(shieldio_data, outfile, ensure_ascii=False)
+RESULTS_DIRECTORY = Path("results")
+
+
+def patch_free_proxy() -> None:
+    """
+    Fix compatibility between scholarly and newer free-proxy versions.
+
+    scholarly calls FreeProxy.get_proxy_list() without arguments, while newer
+    free-proxy versions require the repeat argument.
+    """
+    original_get_proxy_list = FreeProxy.get_proxy_list
+
+    def compatible_get_proxy_list(self, repeat=False):
+        return original_get_proxy_list(self, repeat)
+
+    FreeProxy.get_proxy_list = compatible_get_proxy_list
+
+
+def configure_proxy() -> None:
+    patch_free_proxy()
+
+    proxy_generator = ProxyGenerator()
+    success = proxy_generator.FreeProxies()
+
+    if not success:
+        raise RuntimeError("Failed to configure a free proxy for Google Scholar.")
+
+    scholarly.use_proxy(proxy_generator)
+
+
+def fetch_author() -> dict:
+    scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID")
+    if not scholar_id:
+        raise RuntimeError("Environment variable GOOGLE_SCHOLAR_ID is not set.")
+
+    author = scholarly.search_author_id(scholar_id)
+    scholarly.fill(
+        author,
+        sections=["basics", "indices", "counts", "publications"],
+    )
+
+    author["updated"] = datetime.now().astimezone().isoformat()
+    author["publications"] = {
+        publication["author_pub_id"]: publication
+        for publication in author.get("publications", [])
+        if "author_pub_id" in publication
+    }
+
+    return author
+
+
+def write_json(filename: str, data: dict) -> None:
+    RESULTS_DIRECTORY.mkdir(parents=True, exist_ok=True)
+    output_path = RESULTS_DIRECTORY / filename
+
+    with output_path.open("w", encoding="utf-8") as output_file:
+        json.dump(
+            data,
+            output_file,
+            ensure_ascii=False,
+            indent=2,
+        )
+
+
+def main() -> None:
+    configure_proxy()
+    time.sleep(5)
+
+    author = fetch_author()
+
+    print(json.dumps(author, ensure_ascii=False, indent=2))
+
+    write_json("gs_data.json", author)
+    write_json(
+        "gs_data_shieldsio.json",
+        {
+            "schemaVersion": 1,
+            "label": "citations",
+            "message": str(author.get("citedby", 0)),
+        },
+    )
+
+
+if __name__ == "__main__":
+    main()
